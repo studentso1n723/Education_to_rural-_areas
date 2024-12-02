@@ -1,1 +1,1 @@
-![Sample Image](https://example.com/path/to/image.jpg)
+![Sample Image](https://www.pexels.com/)
